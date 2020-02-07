@@ -1,11 +1,12 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Staking Journey](staking-journey/README.md)
-  * [Buying ONE](staking-journey/buying-one.md)
-  * [Selecting a validator](staking-journey/selecting-a-validator.md)
-  * [Staking your validator](staking-journey/staking-your-validator.md)
-  * [Monitor rewards](staking-journey/monitor-rewards.md)
+* [Staking Journey](staking-journey.md)
+* [Staking Journey](staking-journey-1/README.md)
+  * [Buying ONE](staking-journey-1/buying-one.md)
+  * [Selecting a validator](staking-journey-1/selecting-a-validator.md)
+  * [Staking your validator](staking-journey-1/staking-your-validator.md)
+  * [Monitor rewards](staking-journey-1/monitor-rewards.md)
 * [Wallet Overview](overview/README.md)
   * [Private Key Management](overview/key-management-overview.md)
   * [Missing Funds on Exchange](overview/missing-funds-on-exchange.md)
