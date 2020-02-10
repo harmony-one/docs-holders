@@ -44,3 +44,15 @@ Harmony is not currently listed on Binance.US but we are now listed on Kucoin so
 
 August 5th 2019 Coinbase [announced](https://blog.coinbase.com/coinbase-continues-to-explore-support-for-new-digital-assets-4d2ecbcbd38c) it was exploring the addition of 8 new assets to its exchange. Harmony was listed as one of those assets. Coinbase's goal is to offer support for all assets that meet our technical standards and which comply with applicable laws.![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LmAX_HMpSpsui65xcBN%2F-Lnvv-EvW_RTudLFil0r%2F-LnvzrEmhQh2pdq42fZL%2Fimage.png?alt=media&token=055c2ce3-148a-4eed-8727-5d3b5ad71fc4)
 
+## **What’s the purpose of Harmony’s native token?** <a id="whats-the-purpose-of-harmonys-native-token"></a>
+
+The Harmony token is a protocol token used for a number of purposes on the network.
+
+1. The token is used to stake in order to become a validator on the network to earn block rewards and transaction fees. We use Proof of Stake \(POS\) as our sybil resistance mechanism in the protocol.
+
+2. The token is used to pay fees on the network, both transaction fees, gas and storage fees.
+
+3. The token is used in voting for on-chain governance of the protocol. Without the token, the protocol could not function.
+
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LmAX_HMpSpsui65xcBN%2F-Lo-H37bOq_WdgxtPFYX%2F-Lo-NH5zTGsk60u8z1zn%2FONE%20Token%20Release%20Schedule.png?alt=media&token=ca1bbfe0-2423-42ba-9e85-cc980a0733ca)
+

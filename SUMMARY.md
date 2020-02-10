@@ -39,8 +39,9 @@
       * [Sending transactions](overview/ledger/staking-with-ledger/send-tx.md)
       * [Sign delegation](overview/ledger/staking-with-ledger/sign-delegation.md)
 * [Exchange Overview](exchange-overview/README.md)
-  * [Binance - Buying ONE](exchange-overview/binance-buying-one.md)
-  * [HuobiGlobal](exchange-overview/huobiglobal.md)
+  * [Binance](exchange-overview/binance-buying-one.md)
+  * [Kucoin](exchange-overview/kucoin.md)
+  * [Huobi Fast Track](exchange-overview/huobiglobal.md)
   * [BitMax](exchange-overview/bitmax.md)
 * [Reference Documentation](documentation.md)
 

@@ -1,2 +1,2 @@
-# HuobiGlobal
+# Huobi Fast Track
 
