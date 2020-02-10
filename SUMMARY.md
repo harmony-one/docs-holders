@@ -40,5 +40,7 @@
       * [Sign delegation](overview/ledger/staking-with-ledger/sign-delegation.md)
 * [Exchange Overview](exchange-overview/README.md)
   * [Binance - Buying ONE](exchange-overview/binance-buying-one.md)
+  * [HuobiGlobal](exchange-overview/huobiglobal.md)
+  * [BitMax](exchange-overview/bitmax.md)
 * [Reference Documentation](documentation.md)
 
