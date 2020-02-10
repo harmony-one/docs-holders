@@ -14,6 +14,12 @@ In order to stake with Harmony, you need to have native ONE tokens.
 
 
 
+![](../.gitbook/assets/image.png)
+
+
+
+## Store Native ONE <a id="where-can-i-buy-harmony-one-tokens"></a>
+
 ## Where can I buy Harmony ONE tokens? <a id="where-can-i-buy-harmony-one-tokens"></a>
 
 * ​[Binance](https://harmony.one/binance) online exchange \(non-U.S. citizens\)
