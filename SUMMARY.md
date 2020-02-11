@@ -7,6 +7,7 @@
   * [Selecting a validator](staking-journey-1/selecting-a-validator.md)
   * [Staking your validator](staking-journey-1/staking-your-validator.md)
   * [Monitor rewards](staking-journey-1/monitor-rewards.md)
+  * [Destaking](staking-journey-1/destaking.md)
   * [Unstaking](staking-journey-1/unstaking.md)
 * [Wallet Overview](overview/README.md)
   * [Private Key Management](overview/key-management-overview.md)
