@@ -1,5 +1,14 @@
 # Trust Wallet
 
+{% hint style="info" %}
+Harmony is natively integrated on Trust Wallet and Trust Wallet is now supporting all three blockchain versions of $ONE — our Native ONE, the ERC20 ONE, and the BEP2 $ONE
+{% endhint %}
+
+{% hint style="info" %}
+[  
+](https://medium.com/@niko8760?source=post_page-----2178aeaecf60----------------------)
+{% endhint %}
+
 ![](../.gitbook/assets/screen-shot-2020-01-15-at-8.42.26-am.png)
 
 Trust Wallet is an easy to use, multi cryptocurrency wallet which can connect and trade crypto over decentralized exchanges \(DEX Wallet\). Users can also explore with Trust Browser, a full-fledged Web3 browser that allows you to interact with decentralized applications \(DApp\) directly from the crypto wallet app. 
