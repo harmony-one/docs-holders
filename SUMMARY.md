@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Staking Journey](staking-journey.md)
 * [Staking Journey](staking-journey-1/README.md)
   * [Getting Native ONE tokens](staking-journey-1/buying-one.md)
   * [Selecting a validator](staking-journey-1/selecting-a-validator.md)
@@ -40,8 +39,8 @@
       * [Sign delegation](overview/ledger/staking-with-ledger/sign-delegation.md)
 * [Exchange Overview](exchange-overview/README.md)
   * [Binance](exchange-overview/binance-buying-one.md)
+  * [BitMax](exchange-overview/bitmax.md)
   * [Kucoin](exchange-overview/kucoin.md)
   * [Huobi Fast Track](exchange-overview/huobiglobal.md)
-  * [BitMax](exchange-overview/bitmax.md)
 * [Reference Documentation](documentation.md)
 

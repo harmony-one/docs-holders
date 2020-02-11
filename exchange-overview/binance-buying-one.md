@@ -18,5 +18,14 @@ A full breakdown of the $ONE unlock schedule can be found [here](https://docs.go
 
 ## Binance Launchpad: <a id="whats-the-purpose-of-harmonys-native-token"></a>
 
-## [HARMONY \(ONE\) Binance Research Report](https://medium.com/harmony-one/harmony-one-e35a9dcf6ebd) [ ](https://wiki.harmony.one/interns-guide-to-blockchain/part-2) <a id="whats-the-purpose-of-harmonys-native-token"></a>
+## [HARMONY \(ONE\) Binance Research Report](https://medium.com/harmony-one/harmony-one-e35a9dcf6ebd)  <a id="whats-the-purpose-of-harmonys-native-token"></a>
+
+## For US Token Holders <a id="whats-the-purpose-of-harmonys-native-token"></a>
+
+As of September 12 2019 US based token holders will no longer be able to deposit funds or make trades on Binance.com. As stated by the exchange "Binance is unable to provide services to any U.S. person".
+
+As a Launchpad project Binance was our first exchange and continues to be the primary platform for those wishing to purchase our token. BAM Trading Services has announced that it will be partnering with Binance to launch Binance.US which will provide secure and reliable cryptocurrency trading to users in the United States.
+
+Harmony is not currently listed on Binance.US but we are now listed on Kucoin so US token holders now have more options available to them.[  
+](https://wiki.harmony.one/interns-guide-to-blockchain/part-2)
 

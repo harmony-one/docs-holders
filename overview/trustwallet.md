@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/screen-shot-2020-01-15-at-8.42.26-am.png)
 
-Trust Wallet is a mobile cryptocurrency wallet. Please visit [https://trustwallet.com](https://trustwallet.com) with your mobile device to download the app.
+Trust Wallet is an easy to use, multi cryptocurrency wallet which can connect and trade crypto over decentralized exchanges \(DEX Wallet\). Users can also explore with Trust Browser, a full-fledged Web3 browser that allows you to interact with decentralized applications \(DApp\) directly from the crypto wallet app. 
 
 ## IMPORTANT DISCLAIMER
 
