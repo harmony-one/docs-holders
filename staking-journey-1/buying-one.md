@@ -7,7 +7,7 @@ ToDo:
 * add buying guide
 {% endhint %}
 
-## Where can I buy Harmony ONE tokens? <a id="where-can-i-buy-harmony-one-tokens"></a>
+### Where can you buy Harmony ONE tokens?
 
 * ​[Binance](https://harmony.one/binance) online exchange \(non-U.S. citizens\)
 * ​[Bitmax](https://bitmax.io/#/home) online exchange
@@ -18,9 +18,7 @@ ToDo:
 * ​[Coinmerce \(EUR\)](https://coinmerce.io/uk/buy/one/) online exchange
 * ​[Coinspot \(AUD\)](https://twitter.com/coinspotau/status/1145869420151001088?s=20) online exchange
 
-
-
-### How to get your native ONE:[Token Swap](https://medium.com/harmony-one/harmony-token-swap-launching-the-native-one-token-8e358e96be32)
+### How to get your native ONE: [Token Swap](https://medium.com/harmony-one/harmony-token-swap-launching-the-native-one-token-8e358e96be32)
 
 In order to stake with Harmony, you need to exchange your interim BEP2 and ERC20 tokens for **native Harmony ONE tokens**. 
 
@@ -38,7 +36,7 @@ This process will be similar to Bitmax. The token holders will be able to deposi
 {% endtab %}
 {% endtabs %}
 
-## Store your native ONE <a id="where-can-i-buy-harmony-one-tokens"></a>
+### Store your native ONE
 
 You can continue to store your native ONE tokens on an exchange or use the following, non-custodial wallets. Please note that this list will be continuously updated as integration and support for the network grows.
 
@@ -55,7 +53,13 @@ You can continue to store your native ONE tokens on an exchange or use the follo
 {% endtab %}
 {% endtabs %}
 
-## **What’s the purpose of Harmony’s native token?** <a id="whats-the-purpose-of-harmonys-native-token"></a>
+### **What’s the purpose of Harmony’s native token?**
+
+Harmony is a decentralized infrastructure supporting a new, radically transparent economy. Our initial BEP2-ONE and ERC20-ONE tokens distribution helped us take the initial steps of that journey, fueling the first phase of community participation and bootstrapping our token economy.
+
+> The native ONE token of Harmony blockchain will serve as the bridge for building an open platform without sacrificing performance, decentralization, community-based governance, and verifiable security.
+
+The native ONE token will also be _**required to participate in staking**_, ensuring the economic security of the protocol. Our community will be able to run a validator node or delegate their ONE stake to an existing validator earning block rewards and transaction fees. We are very excited for the launch of open staking in the coming weeks as we begin driving the initial utility of the ONE token.
 
 The Harmony token is a protocol token used for a number of purposes on the network.
 
@@ -65,5 +69,5 @@ The Harmony token is a protocol token used for a number of purposes on the netwo
 
 3. The token is used in voting for on-chain governance of the protocol. Without the token, the protocol could not function.
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LmAX_HMpSpsui65xcBN%2F-Lo-H37bOq_WdgxtPFYX%2F-Lo-NH5zTGsk60u8z1zn%2FONE%20Token%20Release%20Schedule.png?alt=media&token=ca1bbfe0-2423-42ba-9e85-cc980a0733ca)
+
 
