@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Staking Journey](staking-journey-1/README.md)
   * [Getting Native ONE tokens](staking-journey-1/buying-one/README.md)
-    * [What’s the purpose of Harmony’s native token?](staking-journey-1/buying-one/whats-the-purpose-of-harmonys-native-token.md)
+    * [Native ONE token](staking-journey-1/buying-one/whats-the-purpose-of-harmonys-native-token.md)
   * [Selecting a validator](staking-journey-1/selecting-a-validator.md)
   * [Staking your validator](staking-journey-1/staking-your-validator.md)
   * [Monitor rewards](staking-journey-1/monitor-rewards.md)
