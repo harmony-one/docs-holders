@@ -6,7 +6,7 @@ Harmony's native token ONE is supported on the following wallets:
 
 {% page-ref page="ledger/" %}
 
-{% page-ref page="ledger/mathwallet/" %}
+{% page-ref page="mathwallet/" %}
 
 {% page-ref page="ledger/harmony-cli/" %}
 

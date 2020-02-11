@@ -1,2 +1,2 @@
-# Huobi Fast Track
+# Huobi
 
