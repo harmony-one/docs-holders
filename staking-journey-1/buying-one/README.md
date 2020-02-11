@@ -21,7 +21,7 @@ In order to stake with Harmony, you need to exchange your interim BEP2 and ERC20
 {% endtab %}
 
 {% tab title="Binance" %}
-Binance will soon announce the procedure and timeline of the token swap. We will keep on posting more updates along the way. Please join our [telegram announcements](https://t.me/harmony_announcements) channel to be among the first to receive the notification. _**Binance will support BEP-2 to native ONE swap only.**_
+[Binance](https://www.binance.com/en/support/articles/360038718532) will soon announce the procedure and timeline of the token swap. We will keep on posting more updates along the way. Please join our [telegram announcements](https://t.me/harmony_announcements) channel to be among the first to receive the notification. _**Binance will support BEP-2 to native ONE swap only.**_
 {% endtab %}
 
 {% tab title="HonestMining" %}
