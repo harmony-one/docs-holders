@@ -42,32 +42,16 @@ You can continue to store your native ONE tokens on an exchange or use the follo
 
 {% tabs %}
 {% tab title="Software Wallets" %}
-* [Trust wallet](../overview/trustwallet.md)
-* [Math Wallet](../overview/mathwallet/)
-* [Harmony CLI](../overview/ledger/harmony-cli/)
+* [Trust wallet](../../overview/trustwallet.md)
+* [Math Wallet](../../overview/mathwallet/)
+* [Harmony CLI](../../overview/ledger/harmony-cli/)
 {% endtab %}
 
 {% tab title="Hardware Wallets" %}
-* [Ledger Nano S](../overview/ledger/#ledger-nano-s)
-* [SafePal](../overview/safepal/)
+* [Ledger Nano S](../../overview/ledger/#ledger-nano-s)
+* [SafePal](../../overview/safepal/)
 {% endtab %}
 {% endtabs %}
-
-### **What’s the purpose of Harmony’s native token?**
-
-Harmony is a decentralized infrastructure supporting a new, radically transparent economy. Our initial BEP2-ONE and ERC20-ONE tokens distribution helped us take the initial steps of that journey, fueling the first phase of community participation and bootstrapping our token economy.
-
-> The native ONE token of Harmony blockchain will serve as the bridge for building an open platform without sacrificing performance, decentralization, community-based governance, and verifiable security.
-
-The native ONE token will also be _**required to participate in staking**_, ensuring the economic security of the protocol. Our community will be able to run a validator node or delegate their ONE stake to an existing validator earning block rewards and transaction fees. We are very excited for the launch of open staking in the coming weeks as we begin driving the initial utility of the ONE token.
-
-The Harmony token is a protocol token used for a number of purposes on the network.
-
-1. The token is used to stake in order to become a validator on the network to earn block rewards and transaction fees. We use Proof of Stake \(POS\) as our sybil resistance mechanism in the protocol.
-
-2. The token is used to pay fees on the network, both transaction fees, gas and storage fees.
-
-3. The token is used in voting for on-chain governance of the protocol. Without the token, the protocol could not function.
 
 
 
