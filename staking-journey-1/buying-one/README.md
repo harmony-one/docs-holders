@@ -1,12 +1,5 @@
 # Getting Native ONE tokens
 
-{% hint style="danger" %}
-ToDo:
-
-* add references for all exchanges
-* add buying guide
-{% endhint %}
-
 ### Where can you buy Harmony ONE tokens?
 
 * ​[Binance](https://harmony.one/binance) online exchange \(non-U.S. citizens\)
@@ -53,5 +46,7 @@ You can continue to store your native ONE tokens on an exchange or use the follo
 {% endtab %}
 {% endtabs %}
 
-
+{% hint style="info" %}
+If you encounter any issues during your swap process that are not covered in this post, please reach out to the exchange or swap partner that you are using. However, If they are unable to resolve your issue, kindly reach out to **nikos@harmony.one** or join our 24/7 telegram group real-time support at [harmony.one/telegram](https://t.me/harmony_one)
+{% endhint %}
 
