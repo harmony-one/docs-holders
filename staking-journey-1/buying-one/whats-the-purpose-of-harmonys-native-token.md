@@ -21,13 +21,15 @@ A full breakdown of the token unlock schedule can be found [here: harmony.one/un
 
 ## **What’s the purpose of Harmony’s native token?**
 
-Harmony's native ONE token can be used for a number of purposes on the network:
+Harmony’s scalable, high-throughput protocol is powered by a native token which is used for various forms of payment and participation in the protocol \(staking, transaction fees, voting & governance\).
 
-1. The token is used to stake in order to become a validator on the network to earn block rewards and transaction fees. We use Proof of Stake \(POS\) as our sybil resistance mechanism in the protocol.
+Harmony uses blockchain to align incentives of different stakeholders, developers and businesses while allowing them to build open marketplaces of fungible and non-fungible tokens and assets. Furthermore, the upcoming application of zero-knowledge proofs will allow Harmony to become a data sharing platform that can overcome the conflicting problem plaguing many information and data markets: that individual market participants’ have mutual distrust to share data but strong desire to acquire data themselves.
 
-2. The token is used to pay fees on the network, both transaction fees, gas and storage fees.
+The Harmony token will function in the following aspects of the protocol:
 
-3. The token is used in voting for on-chain governance of the protocol. Without the token, the protocol could not function.
+1. The token is used for staking, which is necessary to participate in the POS consensus & earn block rewards and transaction fees.
+2. The token is used to pay for transaction fees, gas and storage fees.
+3. The token is used in voting for on-chain governance of the protocol.
 
 
 
