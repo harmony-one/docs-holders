@@ -28,8 +28,6 @@ A full breakdown of the token unlock schedule can be found [here: harmony.one/un
 
 ## **What’s the purpose of Harmony’s native token?**
 
-Harmony’s scalable, high-throughput protocol is powered by a native token which is used for various forms of payment and participation in the protocol \(staking, transaction fees, voting & governance\).
-
 Harmony uses blockchain to align incentives of different stakeholders, developers and businesses while allowing them to build open marketplaces of fungible and non-fungible tokens and assets. Furthermore, the upcoming application of zero-knowledge proofs will allow Harmony to become a data sharing platform that can overcome the conflicting problem plaguing many information and data markets: that individual market participants’ have mutual distrust to share data but strong desire to acquire data themselves.
 
 The Harmony token will function in the following aspects of the protocol:
