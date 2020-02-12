@@ -1,3 +1,10 @@
+---
+description: >-
+  Harmony’s scalable, high-throughput protocol is powered by a native token
+  which is used for various forms of payment and participation in the protocol
+  (staking, transaction fees, voting & governance).
+---
+
 # Native ONE token
 
 Harmony is a decentralized infrastructure supporting a new, radically transparent economy. Our initial BEP2-ONE and ERC20-ONE tokens distribution helped us take the initial steps of that journey, fueling the first phase of community participation and bootstrapping our token economy.
