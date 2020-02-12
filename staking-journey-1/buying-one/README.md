@@ -37,7 +37,7 @@ You can continue to store your native ONE tokens on an exchange or use the follo
 {% tab title="Software Wallets" %}
 * [Trust wallet](../../overview/trustwallet.md)
 * [Math Wallet](../../overview/mathwallet/)
-* [Harmony CLI](../../overview/ledger/harmony-cli/)
+* [Harmony CLI](../../overview/harmony-cli/)
 {% endtab %}
 
 {% tab title="Hardware Wallets" %}

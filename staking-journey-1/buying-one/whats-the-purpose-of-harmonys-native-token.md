@@ -17,6 +17,7 @@ A full breakdown of the $ONE unlock schedule can be found [here](https://docs.go
 | Issuing Price | $0.003175 USD |
 | Initial Circ. Supply | 3,061,800,000 ONE \(24.3%\) |
 | Total Supply | 12,600,000,000 ONE |
+|  |  |
 
 ## **What’s the purpose of Harmony’s native token?**
 
