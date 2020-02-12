@@ -4,9 +4,13 @@
 
 The Harmony token $ONE was officially brought into the world on Binance Chain as a BEP2 token on May 28th coinciding with the launch of Mainnet Phase 1. This was supported with a major push from Binance to bring new projects into its eco-system via the decentralized Binance DEX. Sharding is still in its infancy and we prioritized building our pool of external validators gradually to ensure security and up-time before migrating the BEP2 tokens to full mainnet.
 
-## Binance Launchpad: <a id="whats-the-purpose-of-harmonys-native-token"></a>
+## Binance Launchpad:  <a id="whats-the-purpose-of-harmonys-native-token"></a>
 
-## [HARMONY \(ONE\) Binance Research Report](https://medium.com/harmony-one/harmony-one-e35a9dcf6ebd)  <a id="whats-the-purpose-of-harmonys-native-token"></a>
+![ ](../.gitbook/assets/image.png)
+
+### [HARMONY \(ONE\) Binance Research Report](https://medium.com/harmony-one/harmony-one-e35a9dcf6ebd) 
+
+##  <a id="whats-the-purpose-of-harmonys-native-token"></a>
 
 ## For US Token Holders <a id="whats-the-purpose-of-harmonys-native-token"></a>
 

@@ -1,2 +1,2 @@
-# Selecting a validator
+# Selecting a Validator
 

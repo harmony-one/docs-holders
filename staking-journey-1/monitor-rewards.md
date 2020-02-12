@@ -1,2 +1,2 @@
-# Monitor rewards
+# Monitoring rewards
 

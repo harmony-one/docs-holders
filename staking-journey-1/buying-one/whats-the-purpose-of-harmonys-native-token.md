@@ -6,7 +6,7 @@ Harmony is a decentralized infrastructure supporting a new, radically transparen
 
 ## Unlock Schedule
 
-A full breakdown of the $ONE unlock schedule can be found [here](https://docs.google.com/spreadsheets/d/143qpsVaezh9sY_pDhNK-cffwgEdRojWa38-rqBwKI7c/edit#gid=1137842585)
+A full breakdown of the token unlock schedule can be found [here: harmony.one/unlock](https://docs.google.com/spreadsheets/d/143qpsVaezh9sY_pDhNK-cffwgEdRojWa38-rqBwKI7c/edit#gid=1137842585).
 
 ![](../../.gitbook/assets/image%20%281%29.png)
 
